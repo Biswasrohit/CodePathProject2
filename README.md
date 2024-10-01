@@ -45,6 +45,8 @@ GIF created with [Kap](https://getkap.co/) for macOS
 
 Describe any challenges encountered while building the app.
 
+I wasn't able to implement images into the flashcards.
+
 ## License
 
     Copyright 2024 Rohit Biswas
