@@ -34,7 +34,7 @@ Here's a walkthrough of implemented required features:
 
 <!-- Replace this with whatever GIF tool you used! -->
 
-GIF created with ...
+GIF created with [Kap](https://getkap.co/) for macOS
 
 <!-- Recommended tools:
 [Kap](https://getkap.co/) for macOS
